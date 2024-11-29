@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antek</h1>
 <h3 align="center">passionate about tech</h3>
 
+- 👨‍💻 Passionate about tech 
+- 👨‍🎓 Studying Computational Biology at university in Poznan, PL 
 - 🔭 I’m currently working on [Django-EV-WebsiteDjango-EV-Website](https://github.com/antkac/Django-EV-Website)
-
 - 📫 How to reach me **kaczorowski.antek@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
