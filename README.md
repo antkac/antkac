@@ -2,7 +2,7 @@
 - 👨‍💻 Passionate about tech 
 - 👨‍🎓 Studying Computational Biology at university in Poznan, PL 
 - 🔭 I’m currently working on [Django-EV-WebsiteDjango-EV-Website](https://github.com/antkac/Django-EV-Website)
-- 📫 How to reach me **kaczorowski.antek@gmail.com**- 👨‍💻 Passionate about tech 
+- 📫 How to reach me **kaczorowski.antek@gmail.com**
 - 👨‍🎓 Studying Computational Biology at university in Poznan, PL 
 - 🔭 I’m currently working on [Django-EV-WebsiteDjango-EV-Website](https://github.com/antkac/Django-EV-Website)
 - 📫 How to reach me **kaczorowski.antek@gmail.com**
