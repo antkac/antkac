@@ -3,9 +3,6 @@
 - 👨‍🎓 Studying Computational Biology at university in Poznan, PL 
 - 🔭 I’m currently working on [Django-EV-WebsiteDjango-EV-Website](https://github.com/antkac/Django-EV-Website)
 - 📫 How to reach me **kaczorowski.antek@gmail.com**
-- 👨‍🎓 Studying Computational Biology at university in Poznan, PL 
-- 🔭 I’m currently working on [Django-EV-WebsiteDjango-EV-Website](https://github.com/antkac/Django-EV-Website)
-- 📫 How to reach me **kaczorowski.antek@gmail.com**
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoni-kaczorowski-783b352b8) 
